@@ -11,9 +11,3 @@ An AI-powered mock interview platform that generates customized interview questi
 
 ## Tech Stack
 Next.js 14 • React • Tailwind • ShadCN • Gemini AI • Clerk • NeonDB • Drizzle ORM • Vercel
-
-## Installation
-```bash
-git clone https://github.com/your-username/ai-mock-interview.git
-cd ai-mock-interview
-npm install
